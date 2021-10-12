@@ -1,17 +1,12 @@
-#  HackBio task 1
+# HackBio task 1
 # This is a script in R that prints name, email, discord username with @ and biostack
 
-# Storing name, email, username and biostack as variables and then printing them
+# Storing name, email, username and biostack as variables and then printing them using the cat function in R.
 
-
+#variables
 name <- "Farheen"
 email <- "shaikhfarheen03@gmail.com"
-username <- "Farheen Shah"
+username <- "Farheen#9769"
 biostack <- "Genomics"
 
-print (paste ("My name is", name))
-print (paste ("My email is", email))
-print (paste0 ("My slack username is @", username))
-print (paste ("My biostack is", biostack))       
-
-
+cat ("My name is", name, "\n", "My email is", email, "\n", (paste0("My discord username is @", username)), "\n", "My biostack is", "Genomics", "\n")
