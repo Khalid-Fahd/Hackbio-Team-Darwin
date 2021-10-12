@@ -2,8 +2,8 @@ const myname="Ishbah Hilal";
 document.getElementById("name").innerHTML = myname;
 const email="ishi.hilal@gmail.com";
 document.getElementById("email").innerHTML = email;
-const discord="@Sapphire#7008";
-document.getElementById("discord").innerHTML = discord;
-const Biostack="Data Analytics";
+const slack="@Sapphire0️⃣";
+document.getElementById("slack").innerHTML = slack;
+const Biostack="Machine Learning and Data Science";
 document.getElementById("Biostack").innerHTML = Biostack;
 
