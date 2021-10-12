@@ -9,4 +9,4 @@ email <- "shaikhfarheen03@gmail.com"
 username <- "Farheen#9769"
 biostack <- "Genomics"
 
-cat ("My name is", name, "\n", "My email is", email, "\n", (paste0("My discord username is @", username)), "\n", "My biostack is", "Genomics", "\n")
+cat ("name", name, "\n", "email", email, "\n", (paste0("username @", username)), "\n", "biostack", "Genomics", "\n")
