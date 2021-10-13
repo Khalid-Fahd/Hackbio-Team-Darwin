@@ -1,1 +1,1 @@
-printf("joy egbejale beautifulljoyce@gmail.com @joyomonigho genomics, transcriptomics"); 
+printf("joy egbejale beautifulljoyce@gmail.com @joyomonigho genomics"); 
