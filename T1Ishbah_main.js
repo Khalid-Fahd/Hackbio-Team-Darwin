@@ -1,3 +1,4 @@
+// saving name, email, slack username, biostack as variables
 const myname="Ishbah Hilal";
 document.getElementById("name").innerHTML = myname;
 const email="ishi.hilal@gmail.com";
