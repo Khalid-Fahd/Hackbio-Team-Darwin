@@ -1,10 +1,10 @@
 const fs = require('fs')
 const myname="Ishbah Hilal";
 const email="ishi.hilal@gmail.com";
-const discord="@Sapphire#7008";
-const Biostack="Data Analytics";
+const slack="@Ishbah0️⃣";
+const biostack="Machine Learning and Data Science";
 
-const details = [myname,email,discord,Biostack]
+const details = [myname,email,slack,biostack]
 let det  = details.toString()
 fs.writeFile('Details.txt', det, (err) => {
       
