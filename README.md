@@ -3,7 +3,7 @@
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 > A repository created by **Team-darwin** of the hackbio virtual internship in response to task 1 (10-10-2021)
 ---
-**Task - 1 :** _Printing our name, email I'd, Discord username and Biostack._
+**Task - 1 :** _Printing our name, email I'd, slack username and Biostack._
 
 ## Team members:
 > * [Khalid](https://github.com/Khalid-Fahd)
