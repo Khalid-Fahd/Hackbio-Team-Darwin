@@ -9,4 +9,4 @@ email <- "shaikhfarheen03@gmail.com"
 username <- "Farheen#9769"
 biostack <- "Genomics"
 
-cat (name, "," ,email,  (paste0(" ", username, ",")), biostack)
+cat (name, "," ,email,  (paste0(",", username, ",")), biostack)
