@@ -4,9 +4,9 @@
    Slack_username = "@JananiSankar"
    Biostack = "Drug Discovery!!!"
    
-   cat(paste(Name, "," ,
+   cat(paste('\n', Name, "," ,
              Email, "," ,
              Slack_username, "," ,
-             Biostack))
+             Biostack, '\n'))
    }
  personal_info()
