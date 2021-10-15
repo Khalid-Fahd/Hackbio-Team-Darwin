@@ -1,5 +1,5 @@
 $name = 'JEMINA J';
 $email = 'j.jemina2002@gmail.com';
-$discord = '@JEMINA_JOHN';
+$slack = '@JEMINA_JOHN';
 $Biostack = 'Machine Learning and Data Science';
-print "Name : $name\nE-mail : $email\nDiscord Username : $discord\nBiostack : $Biostack\n";
+print "$name,$email,$slack,$Biostack";
