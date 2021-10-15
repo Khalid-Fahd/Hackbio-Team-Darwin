@@ -5,4 +5,4 @@ Original file is located at
     https://colab.research.google.com/drive/1ife-YnxmXnsXCh4R51wW-OYuAwRG27vf
 """
 
-print ('name:Samuel Mensah Baffoe ,'+ 'email:samuelmensahbaffoe97@gmail.com ,'+  'discord_username:@SMB ,'+ 'biostack:Transcriptomics')
+print ('Samuel Mensah Baffoe ,'+ 'samuelmensahbaffoe97@gmail.com ,'+  '@SMB ,'+ 'Transcriptomics')
