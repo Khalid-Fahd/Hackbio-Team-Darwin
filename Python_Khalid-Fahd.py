@@ -10,7 +10,4 @@ email = "salakofahdabiodun@gmail.com"
 discord_ID = "Khalid#4799"
 Biostack = "Data analytics"
 
-print(name)
-print(email)
-print(discord_ID)
-print(Biostack)
+print( name + "," + email + "," + discord_ID + "," + Biostack)
