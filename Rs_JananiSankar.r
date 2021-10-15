@@ -2,7 +2,7 @@
   Name = "Janani Sankar"
    Email = "jananisan@gmail.com"
    Slack_username = "@JananiSankar"
-   Biostack = "Drug Discovery!!!"
+   Biostack = "Drug Discovery"
    
    cat(paste('\n', Name, "," ,
              Email, "," ,
