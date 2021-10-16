@@ -6,7 +6,7 @@
 #variables
 name <- "Farheen"
 email <- "shaikhfarheen03@gmail.com"
-username <- "Farheen#9769"
+username <- "@Farheen"
 biostack <- "Genomics"
 
 cat (name, "," ,email,  (paste0(",", username, ",")), biostack)
