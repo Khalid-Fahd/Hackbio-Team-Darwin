@@ -1,6 +1,6 @@
 $name = "shalaka";
 $email = "shalakamore18@gmail.com";
-$slack = "shalaka";
+$slack = "@shalaka";
 $biostack = "Genomics";
 
 print "$name\, $email\, $slack\, $biostack"
