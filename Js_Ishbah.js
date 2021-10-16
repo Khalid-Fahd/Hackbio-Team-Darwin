@@ -1,7 +1,7 @@
 const fs = require('fs')
 const myname="Ishbah Hilal";
 const email="ishi.hilal@gmail.com";
-const slack="@Ishbah0️⃣";
+const slack="@Ishbah";
 const biostack="Machine Learning and Data Science";
 
 const details = [myname,email,slack,biostack]
